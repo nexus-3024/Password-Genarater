@@ -1,0 +1,53 @@
+body{
+  background: #1F2937;
+  padding: 0;
+  margin: 10px auto;
+}
+.main{
+  margin-left: 60px;
+}
+
+#txt2{
+  color: #10B981;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+#txt1{
+  color: #FFFFFF;
+  margin-bottom: 0;
+  margin-top: 120px;
+  margin-bottom: 0;
+}
+.text{
+  font-size: 1.7rem;
+}
+p{
+  color: #D5D7DA;
+  margin-top: 0;
+  font-size: 1.7rem;
+}
+#btn-1{
+  margin-top: 30px;
+  background:#10B981;
+  padding: 10px 30px;
+  color: #ffffff;
+  font-size: 1.2rem;
+  border-radius: 8px;
+}
+.pass{
+  background: #273549;
+  height: 37px;
+  width: 250px;
+  margin-top: 80px;
+  margin-left: 0;
+  border-radius: 10px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  color: #10B981;
+}
+.password{
+  display:flex;
+  justify-content: space-around;
+}
+
