@@ -1,5 +1,9 @@
 Password Generator
 
+
+<img width="1911" height="950" alt="Screenshot_10-Apr_22-10-31_14970" src="https://github.com/user-attachments/assets/f3e73cb5-a275-44a2-8add-7f4de3315ad6" />
+
+
 A simple and customizable Password Generator that creates secure, random passwords based on user-defined criteria. This project helps users generate strong passwords to improve account security and reduce the risk of unauthorized access.
 
 Strong passwords typically combine uppercase letters, lowercase letters, numbers, and special characters to increase security.
@@ -83,6 +87,9 @@ Author
 
 Developed by nexus-3024
 
+<img width="1910" height="951" alt="Screenshot_10-Apr_22-55-09_19715" src="https://github.com/user-attachments/assets/27222c99-83f7-4a2a-a5b2-89582e684da3" />
+
+
 GitHub:
 https://github.com/nexus-3024
-<img width="486" height="383" alt="Screenshot_08-Apr_07-06-39_20377" src="https://github.com/user-attachments/assets/c0322680-7dac-496c-99ce-8fc77524ffa2" />
+
